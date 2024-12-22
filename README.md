@@ -20,7 +20,7 @@ TrueHomes is a MERN stack project designed to facilitate real estate management.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hemanshu7101/True-Homes.git
+    git clone https://github.com/shejsran/True-Homes.git
     cd TrueHomes
     ```
 
